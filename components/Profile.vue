@@ -8,9 +8,9 @@
         <div class="flex flex-col gap-2 items-center justify-center">
             <h1
                 class="font-bold text-xl text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-teal-300 lg:text-3xl"
-                >notsapinho</h1
-            >
-            <h2 class="font-medium text-sm text-slate-100 lg:text-md">O maior do discord 🐎</h2>
+                >notsapinho
+            </h1>
+            <h2 class="font-medium text-sm text-slate-100 lg:text-md">É o sapo né vida 🐎</h2>
         </div>
     </div>
 </template>
