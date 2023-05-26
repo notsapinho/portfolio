@@ -1,5 +1,6 @@
 <template>
     <div class="bg-primary bg-cover bg-top bg-no-repeat flex flex-col font-poppins h-screen w-screen z-2">
+        <audio hidden src="~/assets/audios/rawr.mp3" autoplay />
         <div class="bg-black flex flex-col h-screen bg-opacity-60 w-screen justify-start items-center z-1">
             <div class="flex flex-col max-w-lg p-12 px-0 w-9/12 gap-6 align-center z-0">
                 <Profile />
