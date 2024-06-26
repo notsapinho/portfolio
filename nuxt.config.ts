@@ -12,10 +12,16 @@ export default defineNuxtConfig({
         head: {
             title: "notsapinho",
             meta: [
-                { name: "description", content: "sapinho o mais brabo do discord rawrr" },
+                {
+                    name: "description",
+                    content: "sapinho o mais brabo do discord rawrr"
+                },
                 { name: "theme-color", content: "#00dc82" },
                 { name: "og:title", content: "notsapinho" },
-                { name: "og:description", content: "sapinho o mais brabo do discord rawrr" },
+                {
+                    name: "og:description",
+                    content: "sapinho o mais brabo do discord rawrr"
+                },
                 { name: "og:image", content: "/favicon.png" },
                 { name: "og:locale", content: "pt_BR" },
                 { name: "og:type", content: "pt_BR" }
